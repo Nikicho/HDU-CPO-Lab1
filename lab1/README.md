@@ -39,7 +39,7 @@ Work by Shi Wenhao:
 
 2. realize the hash-map by using the immutable version
 
-3. this is a hash-map that is designed to be  n linked-lists(it is not the real one,it just makes up by the node in immutable version  ),and the hash key is saved in each  head node of the  linked-lists,so the other operation just like adding ,removing and finding can execute in each linked-list .
+3. The hash-map that is designed to be  n linked-lists(it is not the real one,it just makes up by the immutable node).
 
 
 
